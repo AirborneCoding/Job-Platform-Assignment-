@@ -1,12 +1,4 @@
-# Job Platform Assignment
-
-A full-stack job platform web application built as a take-home assignment.  
-It allows users to view job positions, see details, and apply with their resume.  
-Includes a minimal admin area for managing positions and viewing applications.
-
----
-
-## 🧠 Project Architecture
+# Project Architecture
 
 The project has **three main folders** inside the repository:
 
