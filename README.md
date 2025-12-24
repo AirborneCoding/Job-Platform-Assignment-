@@ -93,11 +93,3 @@ npm run dev
 * Access frontend: `http://localhost:5173`.
 * Admin area: `/admin` (manage positions, view applications).
 * API endpoints: `http://localhost:5000`.
-
-``
-## This version:  
-- Focus was on completing core functionality within the deadline; some parts may not be perfect.
-- Starts with **backend first**, then **uploads**, then **frontend**.  
-- Clear **setup instructions**, commands, and ports.  
-- Simple **architecture & key decisions** section.  
-- Looks professional but still like something you would write yourself.  
